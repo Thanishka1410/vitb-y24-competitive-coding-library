@@ -1,5 +1,5 @@
 public class BitManipulation {
-
+    //BitManipulation class provides utility methods for bit manipulation operations on long integers.
     /**
      * Returns 1 if the k-th bit of n is set (0-indexed), otherwise 0.
      */
